@@ -1,0 +1,1751 @@
+[{
+        "vehicle_make": "Mazda",
+        "vehicle_model": "CX-5",
+        "vehicle_year": 2013,
+        "vehicle_vin": "WAULT68EX4A545501",
+        "vehicle_price": 275241
+    },
+    {
+        "vehicle_make": "Mercury",
+        "vehicle_model": "Cougar",
+        "vehicle_year": 1992,
+        "vehicle_vin": "5GADS13S072341218",
+        "vehicle_price": 214400
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "New Beetle",
+        "vehicle_year": 2003,
+        "vehicle_vin": "3C3CFFBRXET807666",
+        "vehicle_price": 753875
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Express 2500",
+        "vehicle_year": 2010,
+        "vehicle_vin": "5BZBF0AA0FN574656",
+        "vehicle_price": 608807
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "SSR",
+        "vehicle_year": 2005,
+        "vehicle_vin": "2C3CCAAG9CH922664",
+        "vehicle_price": 72152
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Century",
+        "vehicle_year": 1997,
+        "vehicle_vin": "5XYZG3AB2BG579414",
+        "vehicle_price": 485479
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "3500 Club Coupe",
+        "vehicle_year": 1996,
+        "vehicle_vin": "JN8AF5MR9FT201223",
+        "vehicle_price": 236589
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Cabriolet",
+        "vehicle_year": 1986,
+        "vehicle_vin": "YV1982BW1A1715467",
+        "vehicle_price": 532417
+    },
+    {
+        "vehicle_make": "Lincoln",
+        "vehicle_model": "Town Car",
+        "vehicle_year": 2002,
+        "vehicle_vin": "WAUWGBFB4BN402696",
+        "vehicle_price": 63724
+    },
+    {
+        "vehicle_make": "Hummer",
+        "vehicle_model": "H1",
+        "vehicle_year": 1997,
+        "vehicle_vin": "1GKKRNED5CJ362478",
+        "vehicle_price": 714025
+    },
+    {
+        "vehicle_make": "Nissan",
+        "vehicle_model": "Xterra",
+        "vehicle_year": 2011,
+        "vehicle_vin": "WBAFU9C51CC416648",
+        "vehicle_price": 198242
+    },
+    {
+        "vehicle_make": "Honda",
+        "vehicle_model": "Odyssey",
+        "vehicle_year": 2004,
+        "vehicle_vin": "WA1CV74L97D850721",
+        "vehicle_price": 894307
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Charger",
+        "vehicle_year": 2012,
+        "vehicle_vin": "WBAFR9C53DD358684",
+        "vehicle_price": 813210
+    },
+    {
+        "vehicle_make": "Porsche",
+        "vehicle_model": "928",
+        "vehicle_year": 1994,
+        "vehicle_vin": "1GYS3UKJ0FR255615",
+        "vehicle_price": 988985
+    },
+    {
+        "vehicle_make": "Acura",
+        "vehicle_model": "RL",
+        "vehicle_year": 2011,
+        "vehicle_vin": "1FTEX1CM8DK989131",
+        "vehicle_price": 31663
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Dakota Club",
+        "vehicle_year": 2001,
+        "vehicle_vin": "1D4RE3GG6BC577620",
+        "vehicle_price": 822467
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Safari",
+        "vehicle_year": 1994,
+        "vehicle_vin": "WDDJK7DA3DF020522",
+        "vehicle_price": 315543
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Sportvan G10",
+        "vehicle_year": 1993,
+        "vehicle_vin": "WBADW7C56DE970182",
+        "vehicle_price": 7916
+    },
+    {
+        "vehicle_make": "Lexus",
+        "vehicle_model": "LS",
+        "vehicle_year": 2011,
+        "vehicle_vin": "SALFP2BG5FH719372",
+        "vehicle_price": 942116
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Eclipse",
+        "vehicle_year": 2009,
+        "vehicle_vin": "1GYS4FEJ5CR328025",
+        "vehicle_price": 755479
+    },
+    {
+        "vehicle_make": "Lexus",
+        "vehicle_model": "GX",
+        "vehicle_year": 2007,
+        "vehicle_vin": "5LMJJ2H56CE679611",
+        "vehicle_price": 369263
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Express 2500",
+        "vehicle_year": 1999,
+        "vehicle_vin": "5GADS13SX72789482",
+        "vehicle_price": 428229
+    },
+    {
+        "vehicle_make": "Chrysler",
+        "vehicle_model": "Town & Country",
+        "vehicle_year": 2007,
+        "vehicle_vin": "WBAEU33492P014982",
+        "vehicle_price": 953741
+    },
+    {
+        "vehicle_make": "Volvo",
+        "vehicle_model": "S80",
+        "vehicle_year": 2002,
+        "vehicle_vin": "1C4AJWAGXFL819069",
+        "vehicle_price": 837106
+    },
+    {
+        "vehicle_make": "Porsche",
+        "vehicle_model": "911",
+        "vehicle_year": 1990,
+        "vehicle_vin": "1HGCR2E71FA150661",
+        "vehicle_price": 366637
+    },
+    {
+        "vehicle_make": "Scion",
+        "vehicle_model": "tC",
+        "vehicle_year": 2009,
+        "vehicle_vin": "JN1CV6FE1DM413390",
+        "vehicle_price": 67632
+    },
+    {
+        "vehicle_make": "Mercury",
+        "vehicle_model": "Cougar",
+        "vehicle_year": 1992,
+        "vehicle_vin": "WA1VGAFP2EA072535",
+        "vehicle_price": 151687
+    },
+    {
+        "vehicle_make": "Nissan",
+        "vehicle_model": "Xterra",
+        "vehicle_year": 2001,
+        "vehicle_vin": "WAUXU54B52N125266",
+        "vehicle_price": 276891
+    },
+    {
+        "vehicle_make": "Mercedes-Benz",
+        "vehicle_model": "SLR McLaren",
+        "vehicle_year": 2005,
+        "vehicle_vin": "JTHDU1EF8D5916229",
+        "vehicle_price": 852006
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Mustang",
+        "vehicle_year": 1995,
+        "vehicle_vin": "YV1940AS2B1563151",
+        "vehicle_price": 202827
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Aspire",
+        "vehicle_year": 1996,
+        "vehicle_vin": "1G6DP5E30C0348224",
+        "vehicle_price": 255038
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "1500",
+        "vehicle_year": 1992,
+        "vehicle_vin": "WBAUC9C53BV893790",
+        "vehicle_price": 41309
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Jetta",
+        "vehicle_year": 1994,
+        "vehicle_vin": "WA1VMAFE5ED365335",
+        "vehicle_price": 294356
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "2500 Club Coupe",
+        "vehicle_year": 1994,
+        "vehicle_vin": "WBAUP7C52AV116248",
+        "vehicle_price": 328185
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "M",
+        "vehicle_year": 2004,
+        "vehicle_vin": "1FTEX1CM1CF744520",
+        "vehicle_price": 407678
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Bronco",
+        "vehicle_year": 1988,
+        "vehicle_vin": "1C3CDFBB3FD393856",
+        "vehicle_price": 755441
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Galant",
+        "vehicle_year": 1988,
+        "vehicle_vin": "JM3KE2BE2E0029450",
+        "vehicle_price": 907898
+    },
+    {
+        "vehicle_make": "Chrysler",
+        "vehicle_model": "LHS",
+        "vehicle_year": 1995,
+        "vehicle_vin": "1FADP5CU2EL943690",
+        "vehicle_price": 534480
+    },
+    {
+        "vehicle_make": "Jeep",
+        "vehicle_model": "Patriot",
+        "vehicle_year": 2009,
+        "vehicle_vin": "WBANU5C57AC528419",
+        "vehicle_price": 396501
+    },
+    {
+        "vehicle_make": "Land Rover",
+        "vehicle_model": "LR3",
+        "vehicle_year": 2009,
+        "vehicle_vin": "JN1BY1AR6EM796261",
+        "vehicle_price": 569985
+    },
+    {
+        "vehicle_make": "Maserati",
+        "vehicle_model": "Biturbo",
+        "vehicle_year": 1987,
+        "vehicle_vin": "WAUGF78K89A127093",
+        "vehicle_price": 823564
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Chariot",
+        "vehicle_year": 1994,
+        "vehicle_vin": "JN8AS5MT0DW577599",
+        "vehicle_price": 896389
+    },
+    {
+        "vehicle_make": "Nissan",
+        "vehicle_model": "240SX",
+        "vehicle_year": 1992,
+        "vehicle_vin": "WAUEFAFL1EN734228",
+        "vehicle_price": 946876
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Passat",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1G6AE5SX7E0304594",
+        "vehicle_price": 52659
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Truck",
+        "vehicle_year": 1989,
+        "vehicle_vin": "WAUKF78E85A731449",
+        "vehicle_price": 347236
+    },
+    {
+        "vehicle_make": "Porsche",
+        "vehicle_model": "944",
+        "vehicle_year": 1983,
+        "vehicle_vin": "1HGCP2E4XAA319564",
+        "vehicle_price": 286242
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "Q",
+        "vehicle_year": 2004,
+        "vehicle_vin": "1GYFC43549R815840",
+        "vehicle_price": 358151
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Dakota",
+        "vehicle_year": 1998,
+        "vehicle_vin": "WBANF33597C682668",
+        "vehicle_price": 779022
+    },
+    {
+        "vehicle_make": "Saab",
+        "vehicle_model": "9-3",
+        "vehicle_year": 2010,
+        "vehicle_vin": "JN8AZ2KR3ET632342",
+        "vehicle_price": 989269
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Passat",
+        "vehicle_year": 1992,
+        "vehicle_vin": "WBAEU33444P553495",
+        "vehicle_price": 911412
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Tercel",
+        "vehicle_year": 1992,
+        "vehicle_vin": "WAUDF78E78A835363",
+        "vehicle_price": 141958
+    },
+    {
+        "vehicle_make": "Cadillac",
+        "vehicle_model": "STS-V",
+        "vehicle_year": 2006,
+        "vehicle_vin": "1N6AF0LY6EN950049",
+        "vehicle_price": 177593
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Yukon XL 1500",
+        "vehicle_year": 2003,
+        "vehicle_vin": "WBASN2C54DC156430",
+        "vehicle_price": 128402
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Expo",
+        "vehicle_year": 1994,
+        "vehicle_vin": "1GYFK33289R063627",
+        "vehicle_price": 706354
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Viper RT/10",
+        "vehicle_year": 1994,
+        "vehicle_vin": "1N4AB7AP3DN334380",
+        "vehicle_price": 573705
+    },
+    {
+        "vehicle_make": "Subaru",
+        "vehicle_model": "Loyale",
+        "vehicle_year": 1990,
+        "vehicle_vin": "WBA3V7C53EP504651",
+        "vehicle_price": 701371
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Ranger",
+        "vehicle_year": 2010,
+        "vehicle_vin": "1G6DN57P490359385",
+        "vehicle_price": 294575
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "M",
+        "vehicle_year": 1992,
+        "vehicle_vin": "1G4HR54KX14631295",
+        "vehicle_price": 378460
+    },
+    {
+        "vehicle_make": "Subaru",
+        "vehicle_model": "Legacy",
+        "vehicle_year": 2002,
+        "vehicle_vin": "JTDJTUD37ED516055",
+        "vehicle_price": 357763
+    },
+    {
+        "vehicle_make": "Volvo",
+        "vehicle_model": "V50",
+        "vehicle_year": 2006,
+        "vehicle_vin": "2T1KE4EE8AC769178",
+        "vehicle_price": 891646
+    },
+    {
+        "vehicle_make": "Lincoln",
+        "vehicle_model": "Town Car",
+        "vehicle_year": 2005,
+        "vehicle_vin": "3FADP4AJ6DM642159",
+        "vehicle_price": 190429
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Express 2500",
+        "vehicle_year": 2001,
+        "vehicle_vin": "1G6DJ5ED4B0560049",
+        "vehicle_price": 466602
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Volt",
+        "vehicle_year": 2012,
+        "vehicle_vin": "WBAYG0C58DD936353",
+        "vehicle_price": 848406
+    },
+    {
+        "vehicle_make": "Audi",
+        "vehicle_model": "S4",
+        "vehicle_year": 2010,
+        "vehicle_vin": "2G4WE587271731601",
+        "vehicle_price": 649716
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Neon",
+        "vehicle_year": 2004,
+        "vehicle_vin": "WAURVAFD3CN734029",
+        "vehicle_price": 308164
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Yukon",
+        "vehicle_year": 2009,
+        "vehicle_vin": "2T1BURHE6FC642304",
+        "vehicle_price": 704011
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "530",
+        "vehicle_year": 2004,
+        "vehicle_vin": "1FMJK1H58DE361708",
+        "vehicle_price": 486925
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Outlander",
+        "vehicle_year": 2003,
+        "vehicle_vin": "3GYFNJE63BS621916",
+        "vehicle_price": 232456
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "E150",
+        "vehicle_year": 1984,
+        "vehicle_vin": "WBAYA8C56FD811435",
+        "vehicle_price": 679567
+    },
+    {
+        "vehicle_make": "Oldsmobile",
+        "vehicle_model": "Achieva",
+        "vehicle_year": 1993,
+        "vehicle_vin": "WAUEL94F26N401848",
+        "vehicle_price": 367565
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Special",
+        "vehicle_year": 1962,
+        "vehicle_vin": "WBABN33443P332767",
+        "vehicle_price": 201256
+    },
+    {
+        "vehicle_make": "Mazda",
+        "vehicle_model": "Mazda6",
+        "vehicle_year": 2009,
+        "vehicle_vin": "WBAVA33527P808702",
+        "vehicle_price": 988453
+    },
+    {
+        "vehicle_make": "Subaru",
+        "vehicle_model": "Legacy",
+        "vehicle_year": 2008,
+        "vehicle_vin": "1GYS3CEF6BR477426",
+        "vehicle_price": 896134
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Probe",
+        "vehicle_year": 1996,
+        "vehicle_vin": "WAUKH94F28N184342",
+        "vehicle_price": 255346
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Flex",
+        "vehicle_year": 2013,
+        "vehicle_vin": "WBANE53586B785342",
+        "vehicle_price": 530668
+    },
+    {
+        "vehicle_make": "Isuzu",
+        "vehicle_model": "i-290",
+        "vehicle_year": 2008,
+        "vehicle_vin": "5J6TF1H50FL234044",
+        "vehicle_price": 519733
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Yukon XL",
+        "vehicle_year": 2006,
+        "vehicle_vin": "JA4AD2A34EZ331318",
+        "vehicle_price": 551036
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Express 3500",
+        "vehicle_year": 1998,
+        "vehicle_vin": "1D7RB1GK2AS648398",
+        "vehicle_price": 113834
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Solara",
+        "vehicle_year": 2001,
+        "vehicle_vin": "1G6AH5RX0E0843040",
+        "vehicle_price": 25571
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "GTI",
+        "vehicle_year": 1996,
+        "vehicle_vin": "2LMHJ5FK2FB253303",
+        "vehicle_price": 194418
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Th!nk",
+        "vehicle_year": 2001,
+        "vehicle_vin": "JTHKD5BH5F2978504",
+        "vehicle_price": 603395
+    },
+    {
+        "vehicle_make": "Audi",
+        "vehicle_model": "A6",
+        "vehicle_year": 2002,
+        "vehicle_vin": "SAJWA4HA5EM621988",
+        "vehicle_price": 851039
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Express 2500",
+        "vehicle_year": 2004,
+        "vehicle_vin": "1GD422CG8EF361668",
+        "vehicle_price": 32983
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Econoline E150",
+        "vehicle_year": 2000,
+        "vehicle_vin": "WA1YL64B05N650797",
+        "vehicle_price": 757211
+    },
+    {
+        "vehicle_make": "Honda",
+        "vehicle_model": "Civic",
+        "vehicle_year": 1991,
+        "vehicle_vin": "1GYS4JEF3DR211561",
+        "vehicle_price": 90025
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Coachbuilder",
+        "vehicle_year": 1995,
+        "vehicle_vin": "WBALM7C57EE526618",
+        "vehicle_price": 139963
+    },
+    {
+        "vehicle_make": "Subaru",
+        "vehicle_model": "Legacy",
+        "vehicle_year": 2009,
+        "vehicle_vin": "1GD422CG6EF007292",
+        "vehicle_price": 64071
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "600",
+        "vehicle_year": 1958,
+        "vehicle_vin": "SCFEBBCF2BG078755",
+        "vehicle_price": 237203
+    },
+    {
+        "vehicle_make": "Mercury",
+        "vehicle_model": "Capri",
+        "vehicle_year": 1994,
+        "vehicle_vin": "1FTSW2B50AE807860",
+        "vehicle_price": 86485
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "New Beetle",
+        "vehicle_year": 2008,
+        "vehicle_vin": "5N1BA0NC4FN533470",
+        "vehicle_price": 297626
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Jimmy",
+        "vehicle_year": 2001,
+        "vehicle_vin": "1B3BD2FB4BN334430",
+        "vehicle_price": 93972
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Tahoe",
+        "vehicle_year": 2006,
+        "vehicle_vin": "WAUFFAFL7BA534395",
+        "vehicle_price": 148381
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "G37",
+        "vehicle_year": 2011,
+        "vehicle_vin": "KNADM4A38C6125722",
+        "vehicle_price": 882269
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Corvette",
+        "vehicle_year": 2002,
+        "vehicle_vin": "3C63D3ML1CG282339",
+        "vehicle_price": 620999
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Astro",
+        "vehicle_year": 1997,
+        "vehicle_vin": "1G6DE5E56D0803568",
+        "vehicle_price": 959974
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Shadow",
+        "vehicle_year": 1992,
+        "vehicle_vin": "SCFAB42331K580588",
+        "vehicle_price": 500080
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "2500 Club Coupe",
+        "vehicle_year": 1997,
+        "vehicle_vin": "KMHTC6AD2DU383555",
+        "vehicle_price": 289719
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "Safari",
+        "vehicle_year": 1987,
+        "vehicle_vin": "WBAEB53518C126105",
+        "vehicle_price": 275192
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Coachbuilder",
+        "vehicle_year": 1991,
+        "vehicle_vin": "WAUHF98P17A473432",
+        "vehicle_price": 504094
+    },
+    {
+        "vehicle_make": "Audi",
+        "vehicle_model": "A4",
+        "vehicle_year": 2012,
+        "vehicle_vin": "1G6DL8EV8A0342490",
+        "vehicle_price": 617386
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Caravan",
+        "vehicle_year": 1995,
+        "vehicle_vin": "3D73M4CL2BG213793",
+        "vehicle_price": 3649
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Galant",
+        "vehicle_year": 1996,
+        "vehicle_vin": "1ZVBP8AM3C5448712",
+        "vehicle_price": 575195
+    },
+    {
+        "vehicle_make": "Mazda",
+        "vehicle_model": "626",
+        "vehicle_year": 1990,
+        "vehicle_vin": "1N4AL3AP4EC622928",
+        "vehicle_price": 588026
+    },
+    {
+        "vehicle_make": "Mercedes-Benz",
+        "vehicle_model": "300E",
+        "vehicle_year": 1992,
+        "vehicle_vin": "1N6AF0LY1FN834033",
+        "vehicle_price": 304765
+    },
+    {
+        "vehicle_make": "Plymouth",
+        "vehicle_model": "Voyager",
+        "vehicle_year": 2000,
+        "vehicle_vin": "3GYFNJE62BS559229",
+        "vehicle_price": 77791
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Sonoma Club Coupe",
+        "vehicle_year": 1997,
+        "vehicle_vin": "WBAFU9C55DD725891",
+        "vehicle_price": 125947
+    },
+    {
+        "vehicle_make": "Porsche",
+        "vehicle_model": "Boxster",
+        "vehicle_year": 1999,
+        "vehicle_vin": "JM1CR2W39A0791808",
+        "vehicle_price": 857005
+    },
+    {
+        "vehicle_make": "Chrysler",
+        "vehicle_model": "Sebring",
+        "vehicle_year": 2001,
+        "vehicle_vin": "1G6KE57YX4U552528",
+        "vehicle_price": 258226
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Lancer Evolution",
+        "vehicle_year": 2003,
+        "vehicle_vin": "1GYEK63N06R073815",
+        "vehicle_price": 963241
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Thunderbird",
+        "vehicle_year": 1984,
+        "vehicle_vin": "JH4DC53035S450446",
+        "vehicle_price": 441946
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Lancer",
+        "vehicle_year": 2010,
+        "vehicle_vin": "SCFHDDAJ5AA177341",
+        "vehicle_price": 661123
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "M3",
+        "vehicle_year": 2003,
+        "vehicle_vin": "JN1AZ4EH2EM327311",
+        "vehicle_price": 203487
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Touareg",
+        "vehicle_year": 2007,
+        "vehicle_vin": "3VWJP7AT9CM414345",
+        "vehicle_price": 603498
+    },
+    {
+        "vehicle_make": "Honda",
+        "vehicle_model": "Accord",
+        "vehicle_year": 2000,
+        "vehicle_vin": "WAUAVAFD8BN131492",
+        "vehicle_price": 528645
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "X6",
+        "vehicle_year": 2013,
+        "vehicle_vin": "WBAPK7C5XAA176488",
+        "vehicle_price": 751848
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Caprice",
+        "vehicle_year": 1992,
+        "vehicle_vin": "WBAYE8C50ED072971",
+        "vehicle_price": 405618
+    },
+    {
+        "vehicle_make": "Cadillac",
+        "vehicle_model": "CTS-V",
+        "vehicle_year": 2010,
+        "vehicle_vin": "5NPDH4AE6EH035549",
+        "vehicle_price": 262202
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "Parisienne",
+        "vehicle_year": 1986,
+        "vehicle_vin": "1G4GE5E32CF700714",
+        "vehicle_price": 878949
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Scirocco",
+        "vehicle_year": 1984,
+        "vehicle_vin": "19XFA1E38AE139169",
+        "vehicle_price": 679895
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Laser",
+        "vehicle_year": 1987,
+        "vehicle_vin": "1G6AY5SX3F0789874",
+        "vehicle_price": 745029
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "X3",
+        "vehicle_year": 2012,
+        "vehicle_vin": "KMHCT4AE5EU414862",
+        "vehicle_price": 260071
+    },
+    {
+        "vehicle_make": "Cadillac",
+        "vehicle_model": "Escalade EXT",
+        "vehicle_year": 2006,
+        "vehicle_vin": "1N6AA0CA1EN065551",
+        "vehicle_price": 981646
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Windstar",
+        "vehicle_year": 2004,
+        "vehicle_vin": "2G4GS5EK1C9899408",
+        "vehicle_price": 481755
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Raider",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1FMJK1F57BE986259",
+        "vehicle_price": 617859
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Venture",
+        "vehicle_year": 1997,
+        "vehicle_vin": "2G4GR5EK2C9571393",
+        "vehicle_price": 993886
+    },
+    {
+        "vehicle_make": "Nissan",
+        "vehicle_model": "Pathfinder",
+        "vehicle_year": 2002,
+        "vehicle_vin": "WBAKX8C52BC751867",
+        "vehicle_price": 369905
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Neon",
+        "vehicle_year": 2002,
+        "vehicle_vin": "5GADV33L75D764228",
+        "vehicle_price": 380171
+    },
+    {
+        "vehicle_make": "Subaru",
+        "vehicle_model": "XT",
+        "vehicle_year": 1990,
+        "vehicle_vin": "2HNYD2H60DH756936",
+        "vehicle_price": 938331
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Mirage",
+        "vehicle_year": 1985,
+        "vehicle_vin": "1GYFC53259R009372",
+        "vehicle_price": 54155
+    },
+    {
+        "vehicle_make": "Nissan",
+        "vehicle_model": "Sentra",
+        "vehicle_year": 1992,
+        "vehicle_vin": "JN1CV6FE0CM767447",
+        "vehicle_price": 236467
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Magnum",
+        "vehicle_year": 2007,
+        "vehicle_vin": "2HNYD18715H625180",
+        "vehicle_price": 592155
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Escort",
+        "vehicle_year": 1993,
+        "vehicle_vin": "WAUUL98E17A516186",
+        "vehicle_price": 404410
+    },
+    {
+        "vehicle_make": "Oldsmobile",
+        "vehicle_model": "Cutlass Cruiser",
+        "vehicle_year": 1994,
+        "vehicle_vin": "2T1BU4EE1BC386381",
+        "vehicle_price": 653785
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Jimmy",
+        "vehicle_year": 1993,
+        "vehicle_vin": "1FTWW3B50AE837044",
+        "vehicle_price": 549371
+    },
+    {
+        "vehicle_make": "Porsche",
+        "vehicle_model": "968",
+        "vehicle_year": 1994,
+        "vehicle_vin": "WAUDF48H97K090536",
+        "vehicle_price": 47125
+    },
+    {
+        "vehicle_make": "Porsche",
+        "vehicle_model": "Panamera",
+        "vehicle_year": 2010,
+        "vehicle_vin": "19XFA1E83BE956921",
+        "vehicle_price": 141045
+    },
+    {
+        "vehicle_make": "Suzuki",
+        "vehicle_model": "Esteem",
+        "vehicle_year": 2002,
+        "vehicle_vin": "5N1AN0NW6DN808604",
+        "vehicle_price": 473059
+    },
+    {
+        "vehicle_make": "Lincoln",
+        "vehicle_model": "Town Car",
+        "vehicle_year": 1987,
+        "vehicle_vin": "5UXZV4C59BL939266",
+        "vehicle_price": 596173
+    },
+    {
+        "vehicle_make": "Mercury",
+        "vehicle_model": "Capri",
+        "vehicle_year": 1984,
+        "vehicle_vin": "WDCYC7DF8FX819205",
+        "vehicle_price": 27414
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "TrailBlazer",
+        "vehicle_year": 2005,
+        "vehicle_vin": "WAUXL58E74A212216",
+        "vehicle_price": 972429
+    },
+    {
+        "vehicle_make": "Volvo",
+        "vehicle_model": "V70",
+        "vehicle_year": 2003,
+        "vehicle_vin": "2T1KE4EE2CC147629",
+        "vehicle_price": 865075
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "I",
+        "vehicle_year": 1997,
+        "vehicle_vin": "WAUGL68E55A631379",
+        "vehicle_price": 714850
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Jetta",
+        "vehicle_year": 1986,
+        "vehicle_vin": "WVWAA7AJ1CW653178",
+        "vehicle_price": 305181
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Suburban 2500",
+        "vehicle_year": 2009,
+        "vehicle_vin": "1GYS4AEF9BR847026",
+        "vehicle_price": 272369
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Land Cruiser",
+        "vehicle_year": 2000,
+        "vehicle_vin": "3N1CE2CP7FL091270",
+        "vehicle_price": 830207
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Silverado 2500",
+        "vehicle_year": 2008,
+        "vehicle_vin": "1N4AL2APXBC502721",
+        "vehicle_price": 591372
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "Grand Prix",
+        "vehicle_year": 1993,
+        "vehicle_vin": "WAUAT48H83K285355",
+        "vehicle_price": 294454
+    },
+    {
+        "vehicle_make": "Jeep",
+        "vehicle_model": "Grand Cherokee",
+        "vehicle_year": 2011,
+        "vehicle_vin": "WVGAV7AX2CW902530",
+        "vehicle_price": 857727
+    },
+    {
+        "vehicle_make": "Austin",
+        "vehicle_model": "Mini Cooper",
+        "vehicle_year": 1961,
+        "vehicle_vin": "1FTSF3A52AE201015",
+        "vehicle_price": 763225
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Beretta",
+        "vehicle_year": 1992,
+        "vehicle_vin": "1GYFC33249R731033",
+        "vehicle_price": 288119
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Camry",
+        "vehicle_year": 2003,
+        "vehicle_vin": "WAUVFAFRXBA389904",
+        "vehicle_price": 194278
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Windstar",
+        "vehicle_year": 2004,
+        "vehicle_vin": "1GD312CG0CF851436",
+        "vehicle_price": 61087
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Sequoia",
+        "vehicle_year": 2003,
+        "vehicle_vin": "WAUCFAFR4DA889129",
+        "vehicle_price": 871365
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Highlander",
+        "vehicle_year": 2006,
+        "vehicle_vin": "2G61W5S82F9759124",
+        "vehicle_price": 211735
+    },
+    {
+        "vehicle_make": "Bentley",
+        "vehicle_model": "Continental GT",
+        "vehicle_year": 2010,
+        "vehicle_vin": "SCBFH7ZA4FC029454",
+        "vehicle_price": 273052
+    },
+    {
+        "vehicle_make": "Mercedes-Benz",
+        "vehicle_model": "W201",
+        "vehicle_year": 1990,
+        "vehicle_vin": "2T2BK1BAXDC298210",
+        "vehicle_price": 111001
+    },
+    {
+        "vehicle_make": "Mazda",
+        "vehicle_model": "RX-8",
+        "vehicle_year": 2004,
+        "vehicle_vin": "1G6AB5SX0F0893840",
+        "vehicle_price": 218965
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Cobalt",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1N6AA0EC6EN548516",
+        "vehicle_price": 538621
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Viper",
+        "vehicle_year": 2002,
+        "vehicle_vin": "SCFAB42343K443243",
+        "vehicle_price": 656475
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Freestyle",
+        "vehicle_year": 2005,
+        "vehicle_vin": "5NPDH4AE6CH454143",
+        "vehicle_price": 438308
+    },
+    {
+        "vehicle_make": "Oldsmobile",
+        "vehicle_model": "Regency",
+        "vehicle_year": 1997,
+        "vehicle_vin": "WBAFZ9C50DD503602",
+        "vehicle_price": 249876
+    },
+    {
+        "vehicle_make": "Mercedes-Benz",
+        "vehicle_model": "G-Class",
+        "vehicle_year": 2003,
+        "vehicle_vin": "JN8AZ2KR8CT962667",
+        "vehicle_price": 251605
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Envoy XL",
+        "vehicle_year": 2006,
+        "vehicle_vin": "KNAFK4A60E5149417",
+        "vehicle_price": 840019
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Rally Wagon G3500",
+        "vehicle_year": 1996,
+        "vehicle_vin": "WBAVA37527N311977",
+        "vehicle_price": 67079
+    },
+    {
+        "vehicle_make": "Lincoln",
+        "vehicle_model": "MKZ",
+        "vehicle_year": 2010,
+        "vehicle_vin": "19UUA65646A187441",
+        "vehicle_price": 798226
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Tempo",
+        "vehicle_year": 1994,
+        "vehicle_vin": "3C3CFFFH6DT092109",
+        "vehicle_price": 977797
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Caravan",
+        "vehicle_year": 1994,
+        "vehicle_vin": "1G6DP5ED6B0382191",
+        "vehicle_price": 800224
+    },
+    {
+        "vehicle_make": "Audi",
+        "vehicle_model": "A8",
+        "vehicle_year": 2010,
+        "vehicle_vin": "ZFBCFAAH4EZ110061",
+        "vehicle_price": 640356
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Daytona",
+        "vehicle_year": 1993,
+        "vehicle_vin": "YV1902FH4D1883658",
+        "vehicle_price": 112710
+    },
+    {
+        "vehicle_make": "Audi",
+        "vehicle_model": "TT",
+        "vehicle_year": 2002,
+        "vehicle_vin": "1FTSW3B58AE836898",
+        "vehicle_price": 207034
+    },
+    {
+        "vehicle_make": "Suzuki",
+        "vehicle_model": "Forenza",
+        "vehicle_year": 2005,
+        "vehicle_vin": "5UXXW3C54F0661561",
+        "vehicle_price": 15114
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "Alpina B7",
+        "vehicle_year": 2007,
+        "vehicle_vin": "5J8TB3H3XEL456330",
+        "vehicle_price": 367057
+    },
+    {
+        "vehicle_make": "Hummer",
+        "vehicle_model": "H3T",
+        "vehicle_year": 2009,
+        "vehicle_vin": "3VW517AT4FM409268",
+        "vehicle_price": 532495
+    },
+    {
+        "vehicle_make": "Subaru",
+        "vehicle_model": "Legacy",
+        "vehicle_year": 1999,
+        "vehicle_vin": "3GYFK122X9G325833",
+        "vehicle_price": 831250
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "G25",
+        "vehicle_year": 2011,
+        "vehicle_vin": "1G6DK8E33C0617283",
+        "vehicle_price": 398419
+    },
+    {
+        "vehicle_make": "Jaguar",
+        "vehicle_model": "XK",
+        "vehicle_year": 2009,
+        "vehicle_vin": "1GYUKCEF6AR006824",
+        "vehicle_price": 166895
+    },
+    {
+        "vehicle_make": "Mazda",
+        "vehicle_model": "Mazda3",
+        "vehicle_year": 2010,
+        "vehicle_vin": "2G4WE567151389610",
+        "vehicle_price": 535257
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "GTI",
+        "vehicle_year": 1997,
+        "vehicle_vin": "WBALL5C50DE179560",
+        "vehicle_price": 640671
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Festiva",
+        "vehicle_year": 1988,
+        "vehicle_vin": "JN8AS5MTXBW667310",
+        "vehicle_price": 196769
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Ram 3500",
+        "vehicle_year": 1996,
+        "vehicle_vin": "1GKS2GEJ6CR152530",
+        "vehicle_price": 871853
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Camaro",
+        "vehicle_year": 2012,
+        "vehicle_vin": "SCFFBCBD6BG094287",
+        "vehicle_price": 463605
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Type 2",
+        "vehicle_year": 1989,
+        "vehicle_vin": "WVWED7AJXBW277135",
+        "vehicle_price": 759773
+    },
+    {
+        "vehicle_make": "Acura",
+        "vehicle_model": "TL",
+        "vehicle_year": 1999,
+        "vehicle_vin": "1G6DK8E38C0903629",
+        "vehicle_price": 303226
+    },
+    {
+        "vehicle_make": "Honda",
+        "vehicle_model": "Passport",
+        "vehicle_year": 1998,
+        "vehicle_vin": "WAUNE78P68A043844",
+        "vehicle_price": 893047
+    },
+    {
+        "vehicle_make": "Aptera",
+        "vehicle_model": "Typ-1",
+        "vehicle_year": 2008,
+        "vehicle_vin": "WA1CFAFP0BA753928",
+        "vehicle_price": 618809
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "G6",
+        "vehicle_year": 2010,
+        "vehicle_vin": "4USBT53594L823514",
+        "vehicle_price": 763476
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "G6",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1N6AA0EC9DN850896",
+        "vehicle_price": 778705
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Eurovan",
+        "vehicle_year": 2001,
+        "vehicle_vin": "WAUBFAFL1FA046175",
+        "vehicle_price": 491971
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Dakota",
+        "vehicle_year": 2008,
+        "vehicle_vin": "WAUBVAFB9BN095816",
+        "vehicle_price": 187651
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Regal",
+        "vehicle_year": 1990,
+        "vehicle_vin": "5J6YH1H32AL569829",
+        "vehicle_price": 87152
+    },
+    {
+        "vehicle_make": "Lexus",
+        "vehicle_model": "SC",
+        "vehicle_year": 1997,
+        "vehicle_vin": "YV1902MCXF1456852",
+        "vehicle_price": 519048
+    },
+    {
+        "vehicle_make": "Saab",
+        "vehicle_model": "9-3",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1G6DJ1ED6B0764134",
+        "vehicle_price": 731230
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Tercel",
+        "vehicle_year": 1998,
+        "vehicle_vin": "NM0KS9BN4DT405571",
+        "vehicle_price": 193172
+    },
+    {
+        "vehicle_make": "Mercury",
+        "vehicle_model": "Grand Marquis",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1G4GJ5G37CF297466",
+        "vehicle_price": 916045
+    },
+    {
+        "vehicle_make": "Spyker",
+        "vehicle_model": "C8",
+        "vehicle_year": 2005,
+        "vehicle_vin": "WBAPH77569N260577",
+        "vehicle_price": 862016
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Ram 3500",
+        "vehicle_year": 1995,
+        "vehicle_vin": "2T2BK1BA3DC091951",
+        "vehicle_price": 631527
+    },
+    {
+        "vehicle_make": "Chrysler",
+        "vehicle_model": "Crossfire Roadster",
+        "vehicle_year": 2006,
+        "vehicle_vin": "KL4CJASB1EB898242",
+        "vehicle_price": 604919
+    },
+    {
+        "vehicle_make": "Land Rover",
+        "vehicle_model": "LR3",
+        "vehicle_year": 2006,
+        "vehicle_vin": "WBAAV53451J155704",
+        "vehicle_price": 815895
+    },
+    {
+        "vehicle_make": "Volvo",
+        "vehicle_model": "C70",
+        "vehicle_year": 2012,
+        "vehicle_vin": "WBAUC9C56BV250477",
+        "vehicle_price": 318593
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "GTO",
+        "vehicle_year": 1964,
+        "vehicle_vin": "4A31K2DF9BE202167",
+        "vehicle_price": 767781
+    },
+    {
+        "vehicle_make": "Hyundai",
+        "vehicle_model": "Accent",
+        "vehicle_year": 2011,
+        "vehicle_vin": "WAUDG78E76A872763",
+        "vehicle_price": 453358
+    },
+    {
+        "vehicle_make": "Nissan",
+        "vehicle_model": "Sentra",
+        "vehicle_year": 1996,
+        "vehicle_vin": "1GYS3CKJ8FR453501",
+        "vehicle_price": 600369
+    },
+    {
+        "vehicle_make": "Infiniti",
+        "vehicle_model": "G",
+        "vehicle_year": 2010,
+        "vehicle_vin": "JN8AZ2KR8CT593647",
+        "vehicle_price": 130210
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "D250 Club",
+        "vehicle_year": 1993,
+        "vehicle_vin": "5GAKVBKD7EJ997717",
+        "vehicle_price": 510321
+    },
+    {
+        "vehicle_make": "Lincoln",
+        "vehicle_model": "Town Car",
+        "vehicle_year": 1998,
+        "vehicle_vin": "WAULD54B82N726623",
+        "vehicle_price": 191086
+    },
+    {
+        "vehicle_make": "Kia",
+        "vehicle_model": "Optima",
+        "vehicle_year": 2007,
+        "vehicle_vin": "TRURD38J281647442",
+        "vehicle_price": 111696
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Corvette",
+        "vehicle_year": 2009,
+        "vehicle_vin": "1D7RB1CP2AS357692",
+        "vehicle_price": 456989
+    },
+    {
+        "vehicle_make": "Mazda",
+        "vehicle_model": "Mazda3",
+        "vehicle_year": 2008,
+        "vehicle_vin": "2G61R5S36D9521141",
+        "vehicle_price": 816610
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Taurus",
+        "vehicle_year": 1992,
+        "vehicle_vin": "5J6TF1H39BL405642",
+        "vehicle_price": 347420
+    },
+    {
+        "vehicle_make": "Volkswagen",
+        "vehicle_model": "Cabriolet",
+        "vehicle_year": 1993,
+        "vehicle_vin": "WA1LMAFE3BD014054",
+        "vehicle_price": 182139
+    },
+    {
+        "vehicle_make": "Mercury",
+        "vehicle_model": "Lynx",
+        "vehicle_year": 1984,
+        "vehicle_vin": "KMHTC6AD6EU674044",
+        "vehicle_price": 953466
+    },
+    {
+        "vehicle_make": "Jeep",
+        "vehicle_model": "Liberty",
+        "vehicle_year": 2007,
+        "vehicle_vin": "5TDBKRFH0ES516299",
+        "vehicle_price": 313707
+    },
+    {
+        "vehicle_make": "Hyundai",
+        "vehicle_model": "Tiburon",
+        "vehicle_year": 2000,
+        "vehicle_vin": "JH4CL95906C071317",
+        "vehicle_price": 8383
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Lumina",
+        "vehicle_year": 1994,
+        "vehicle_vin": "SCBZB25E82C278070",
+        "vehicle_price": 637815
+    },
+    {
+        "vehicle_make": "Scion",
+        "vehicle_model": "xD",
+        "vehicle_year": 2008,
+        "vehicle_vin": "2C4RDGEG4FR900845",
+        "vehicle_price": 204245
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "Grand Prix",
+        "vehicle_year": 1967,
+        "vehicle_vin": "WBAFU7C59BC482691",
+        "vehicle_price": 851444
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Yaris",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1G6DM1E33C0747548",
+        "vehicle_price": 518025
+    },
+    {
+        "vehicle_make": "Honda",
+        "vehicle_model": "Fit",
+        "vehicle_year": 2011,
+        "vehicle_vin": "WAUWKAFR8AA721708",
+        "vehicle_price": 790571
+    },
+    {
+        "vehicle_make": "Lexus",
+        "vehicle_model": "ES",
+        "vehicle_year": 2007,
+        "vehicle_vin": "1C6RD6JT1CS471808",
+        "vehicle_price": 432968
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Park Avenue",
+        "vehicle_year": 2005,
+        "vehicle_vin": "2T3BFREV2EW513799",
+        "vehicle_price": 150420
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "X5",
+        "vehicle_year": 2011,
+        "vehicle_vin": "WAUED54B51N019003",
+        "vehicle_price": 983053
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Starion",
+        "vehicle_year": 1986,
+        "vehicle_vin": "1G6DF5EY8B0874288",
+        "vehicle_price": 832242
+    },
+    {
+        "vehicle_make": "Toyota",
+        "vehicle_model": "Prius",
+        "vehicle_year": 2003,
+        "vehicle_vin": "KMHHT6KDXDU991974",
+        "vehicle_price": 988086
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "X6 M",
+        "vehicle_year": 2012,
+        "vehicle_vin": "KM8JT3AC0AU149245",
+        "vehicle_price": 994255
+    },
+    {
+        "vehicle_make": "Suzuki",
+        "vehicle_model": "SX4",
+        "vehicle_year": 2011,
+        "vehicle_vin": "JN8AF5MR6BT645718",
+        "vehicle_price": 924759
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Yukon XL 1500",
+        "vehicle_year": 2011,
+        "vehicle_vin": "1G6DJ5E3XC0444220",
+        "vehicle_price": 895274
+    },
+    {
+        "vehicle_make": "Ford",
+        "vehicle_model": "Bronco",
+        "vehicle_year": 1984,
+        "vehicle_vin": "19UUA66296A871199",
+        "vehicle_price": 463779
+    },
+    {
+        "vehicle_make": "Lexus",
+        "vehicle_model": "LX",
+        "vehicle_year": 2011,
+        "vehicle_vin": "1G4GE5G35FF687510",
+        "vehicle_price": 142013
+    },
+    {
+        "vehicle_make": "Renault",
+        "vehicle_model": "Alliance",
+        "vehicle_year": 1983,
+        "vehicle_vin": "KMHHT6KD3BU749072",
+        "vehicle_price": 434861
+    },
+    {
+        "vehicle_make": "GMC",
+        "vehicle_model": "Savana",
+        "vehicle_year": 2007,
+        "vehicle_vin": "YV1672MK2A2411168",
+        "vehicle_price": 593768
+    },
+    {
+        "vehicle_make": "Dodge",
+        "vehicle_model": "Journey",
+        "vehicle_year": 2009,
+        "vehicle_vin": "WAUHFAFLXEA341980",
+        "vehicle_price": 110466
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Century",
+        "vehicle_year": 1988,
+        "vehicle_vin": "WBANU5C51AC739888",
+        "vehicle_price": 647563
+    },
+    {
+        "vehicle_make": "Chevrolet",
+        "vehicle_model": "Aveo",
+        "vehicle_year": 2009,
+        "vehicle_vin": "JN8AZ1MU8EW692885",
+        "vehicle_price": 925432
+    },
+    {
+        "vehicle_make": "Lincoln",
+        "vehicle_model": "Mark VIII",
+        "vehicle_year": 1995,
+        "vehicle_vin": "WAUYP64B41N960064",
+        "vehicle_price": 774204
+    },
+    {
+        "vehicle_make": "Suzuki",
+        "vehicle_model": "SX4",
+        "vehicle_year": 2009,
+        "vehicle_vin": "WUAAU34278N033407",
+        "vehicle_price": 490970
+    },
+    {
+        "vehicle_make": "Chrysler",
+        "vehicle_model": "New Yorker",
+        "vehicle_year": 1992,
+        "vehicle_vin": "5FPYK1F28BB670368",
+        "vehicle_price": 20532
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Galant",
+        "vehicle_year": 1985,
+        "vehicle_vin": "WAUDV74F67N140929",
+        "vehicle_price": 495530
+    },
+    {
+        "vehicle_make": "MINI",
+        "vehicle_model": "Cooper",
+        "vehicle_year": 2009,
+        "vehicle_vin": "WAUHFAFL9EA960912",
+        "vehicle_price": 357644
+    },
+    {
+        "vehicle_make": "Cadillac",
+        "vehicle_model": "SRX",
+        "vehicle_year": 2010,
+        "vehicle_vin": "1GYFK43599R259172",
+        "vehicle_price": 436464
+    },
+    {
+        "vehicle_make": "Honda",
+        "vehicle_model": "S2000",
+        "vehicle_year": 2004,
+        "vehicle_vin": "2C3CA2CV5AH205893",
+        "vehicle_price": 322935
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Park Avenue",
+        "vehicle_year": 1992,
+        "vehicle_vin": "1GYS3HEF8ER583510",
+        "vehicle_price": 926556
+    },
+    {
+        "vehicle_make": "Isuzu",
+        "vehicle_model": "Ascender",
+        "vehicle_year": 2008,
+        "vehicle_vin": "1G6DJ1E39D0126308",
+        "vehicle_price": 52948
+    },
+    {
+        "vehicle_make": "MINI",
+        "vehicle_model": "Cooper",
+        "vehicle_year": 2002,
+        "vehicle_vin": "WBAWB73559P311431",
+        "vehicle_price": 330609
+    },
+    {
+        "vehicle_make": "Mitsubishi",
+        "vehicle_model": "Galant",
+        "vehicle_year": 1990,
+        "vehicle_vin": "2B3CK5CT0AH753598",
+        "vehicle_price": 203704
+    },
+    {
+        "vehicle_make": "BMW",
+        "vehicle_model": "760",
+        "vehicle_year": 2003,
+        "vehicle_vin": "WA1LFAFP5EA978754",
+        "vehicle_price": 325473
+    },
+    {
+        "vehicle_make": "Lexus",
+        "vehicle_model": "RX",
+        "vehicle_year": 2008,
+        "vehicle_vin": "JN1AZ4EH1FM843368",
+        "vehicle_price": 376980
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Riviera",
+        "vehicle_year": 1990,
+        "vehicle_vin": "WDDHF0EB8EA109048",
+        "vehicle_price": 551339
+    },
+    {
+        "vehicle_make": "Scion",
+        "vehicle_model": "xA",
+        "vehicle_year": 2005,
+        "vehicle_vin": "JTDBT4K35B4590822",
+        "vehicle_price": 111707
+    },
+    {
+        "vehicle_make": "Pontiac",
+        "vehicle_model": "Grand Am",
+        "vehicle_year": 2005,
+        "vehicle_vin": "1GYS3HEF6ER145729",
+        "vehicle_price": 748513
+    },
+    {
+        "vehicle_make": "Buick",
+        "vehicle_model": "Skylark",
+        "vehicle_year": 1986,
+        "vehicle_vin": "WAUSF98E26A775542",
+        "vehicle_price": 959330
+    }
+]

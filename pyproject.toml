@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "apf-fastapi-building-blocks"
+version = "0.1.0"
+description = ""
+authors = ["miraclemenikelechi"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = "^0.110.1"
+uvicorn = {extras = ["standard"], version = "^0.29.0"}
+pydantic = {extras = ["email"], version = "^2.7.0"}
+bcrypt = "^4.1.2"
+phonenumbers = "^8.13.34"
+pydantic-extra-types = "^2.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
